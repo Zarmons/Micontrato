@@ -1,0 +1,18 @@
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container-menu {
+    width: 100%;
+}
+
+.layout-menu {
+    width: 30%;
+  padding: 5px;
+  background: #013270;
+  border: 4px solid #011053;
+  border-radius: 0px 0px 30px 30px;
+  list-style: none;
+}
