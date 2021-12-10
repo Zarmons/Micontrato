@@ -4,5 +4,6 @@ import App from './App'
 import './index.css'
 import './assets/layout/menu.css'
 import './assets/layout/users.css'
+import './assets/layout/home.css'
 
 ReactDOM.render(<App />, document.getElementById('root'))
