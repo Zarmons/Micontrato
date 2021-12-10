@@ -1,15 +1,9 @@
-.center {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
 .container-menu {
     width: 100%;
 }
 
 .layout-menu {
-    width: 30%;
+  width: 30%;
   padding: 5px;
   background: #013270;
   border: 4px solid #011053;
