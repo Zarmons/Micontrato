@@ -18,7 +18,20 @@ strong {
   font-style: italic;
 }
 
-
 .container-users {
   width: 20%;
+}
+
+span {
+  /* background: #0482b5; */
+  color: #fff;
+  margin: 8px;
+}
+
+button {
+  color: #fff;
+  background: transparent;
+  border: none;
+  font-size: 15px;
+  cursor: pointer;
 }
