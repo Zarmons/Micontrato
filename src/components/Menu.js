@@ -7,8 +7,7 @@ const Menu = () => {
   return (
     <div  className="container-menu center">
       <ul className="App layout-menu center">
-        <li>
-          
+        <li>         
           <Link to="/" ><FcHome></FcHome>Inicio</Link>
         </li>
         <li>

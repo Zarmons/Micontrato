@@ -16,7 +16,7 @@ const Questions = () => {
         <div className="verticalLine container-ques">
           <h4>¿Qué percibe del proyecto MiContrato?</h4>
           <p>
-            el proyecto meda perspectiva del manejo de documentos importantes a
+            El proyecto meda perspectiva del manejo de documentos importantes a
             traves de una plataforma de diferentes empresas y personas que
             quieren tener su documentos de manera mas segura.
           </p>
@@ -31,7 +31,7 @@ const Questions = () => {
             es realizar lo a funciones individuales.
           </p>
           <p>
-            las pruebas que se realizan al Fronten son: Test unitarios, Test de
+            Las pruebas que se realizan al Fronten son: Test unitarios, Test de
             integración, Test de aceptación, Test de accesibilidad, Test de CSS
             y Test de regresión
           </p>
