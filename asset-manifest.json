@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Micontrato/static/css/main.e5fab170.chunk.css",
+    "main.js": "/Micontrato/static/js/main.37475211.chunk.js",
+    "main.js.map": "/Micontrato/static/js/main.37475211.chunk.js.map",
+    "runtime-main.js": "/Micontrato/static/js/runtime-main.9f31cf2e.js",
+    "runtime-main.js.map": "/Micontrato/static/js/runtime-main.9f31cf2e.js.map",
+    "static/js/2.755cd8bc.chunk.js": "/Micontrato/static/js/2.755cd8bc.chunk.js",
+    "static/js/2.755cd8bc.chunk.js.map": "/Micontrato/static/js/2.755cd8bc.chunk.js.map",
+    "index.html": "/Micontrato/index.html",
+    "static/css/main.e5fab170.chunk.css.map": "/Micontrato/static/css/main.e5fab170.chunk.css.map",
+    "static/js/2.755cd8bc.chunk.js.LICENSE.txt": "/Micontrato/static/js/2.755cd8bc.chunk.js.LICENSE.txt",
+    "static/media/Foto.28846d37.jpg": "/Micontrato/static/media/Foto.28846d37.jpg",
+    "static/media/api.7c727a2a.jpg": "/Micontrato/static/media/api.7c727a2a.jpg",
+    "static/media/brisas(2).6dd77ebc.jpg": "/Micontrato/static/media/brisas(2).6dd77ebc.jpg",
+    "static/media/brisas.beff6ebf.jpg": "/Micontrato/static/media/brisas.beff6ebf.jpg",
+    "static/media/director.5966689d.jpg": "/Micontrato/static/media/director.5966689d.jpg",
+    "static/media/familia.a8400e43.jpg": "/Micontrato/static/media/familia.a8400e43.jpg",
+    "static/media/keon.e6333a61.jpg": "/Micontrato/static/media/keon.e6333a61.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f31cf2e.js",
+    "static/js/2.755cd8bc.chunk.js",
+    "static/css/main.e5fab170.chunk.css",
+    "static/js/main.37475211.chunk.js"
+  ]
+}
