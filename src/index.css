@@ -1,6 +1,13 @@
 body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(
+    360deg,
+    #011053 39.99%,
+    #0b4680 82.44%,
+    #00a3d2 123.1%
+  );
+  background-repeat: no-repeat;
   padding: 0px;
   font-family: sans-serif;
   font-size: 1rem;
@@ -12,7 +19,7 @@ body {
 }
 
 a {
-  color: #7b7a7a;
+  color: #ffffff;
   cursor: pointer;
   padding: 10px;
   text-decoration: none;
@@ -23,17 +30,27 @@ a:hover,
 a:active,
 a:focus {
   color: #011053;
-  background: #ffffff;
+  background: #0482b5;
   font-weight: bold;
   text-decoration: none;
 }
+h1 {
+  margin-top: 40px;
+}
 
-h1, h4 {
+h1,
+h3 {
   color: #011053;
 }
 
 p {
+  color: #ffffff;
   font-size: 1rem;
+}
+
+.hr {
+  color: #0482b5;
+  border-style: solid;
 }
 
 /* helper */

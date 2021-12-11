@@ -6,7 +6,7 @@ const Questions = () => {
     <div className="container-questions">
       <div className="center">
         <div className="verticalLine container-ques">
-          <h4>¿Para qué son los software de gestión documental?</h4>
+          <h3>¿Para qué son los software de gestión documental?</h3>
           <p>
             Son aquellos que nos permiten tener un orden en las distintas
             versiones, para asi saber cuando y por quien se realiza las
@@ -14,7 +14,7 @@ const Questions = () => {
           </p>
         </div>
         <div className="verticalLine container-ques">
-          <h4>¿Qué percibe del proyecto MiContrato?</h4>
+          <h3>¿Qué percibe del proyecto MiContrato?</h3>
           <p>
             El proyecto meda perspectiva del manejo de documentos importantes a
             traves de una plataforma de diferentes empresas y personas que
@@ -22,10 +22,10 @@ const Questions = () => {
           </p>
         </div>
         <div className="container-ques">
-          <h4>
+          <h3>
             ¿Qué es una prueba unitaria, que tipos de pruebas se realizan al
             frontend?
-          </h4>
+          </h3>
           <p>
             Son conocidas como las pruebas de caja blanca y el proposito de esta
             es realizar lo a funciones individuales.
@@ -37,7 +37,7 @@ const Questions = () => {
           </p>
         </div>
       </div>
-      <hr></hr>
+      <hr className="hr"></hr>
       <p>
         Uno de los consumos mas seguros de servicios rest es el basado por
         token, el cual se envia datos como usuario, correo, numero de
@@ -48,7 +48,7 @@ const Questions = () => {
         tambien en diferentes modulos.el token es guardo en la localstore para
         donde se encuentra los datos de inicialización.
       </p>
-      <img src={Api}></img>
+      <img className="api" src={Api}></img>
     </div>
   );
 };

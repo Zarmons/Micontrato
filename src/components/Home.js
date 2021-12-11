@@ -10,14 +10,14 @@ const Home = () => {
   return (
     <div className="container-home">
       <h1>Autobiografía </h1>
-      <hr></hr>
+      <hr className="hr"></hr>
       <p className="center">
         Hola, ¿cómo estás?, Me llamo Fred Santiago Ovallos tengo 24 años, soy el
         mayor de dos hijos, actualmente vivo con mi hermano y mi madre.
       </p>
       <img className="foto" src={Foto}></img>
       <p>ven!!! te contare un poco de mi.</p>
-      <hr></hr>
+      <hr className="hr"></hr>
       <p>
         Te contare algo de mis estudios, En el 2013 culmine mis estudios como
         bachiller técnico de sistemas de manejo ambiental y actualmente estoy en
@@ -47,7 +47,7 @@ const Home = () => {
         impulsar más mi vida profesional y en la que actualmente trabajo en el
         área de UX/UI como diseñador y desarrollador web.
       </p>
-      <hr></hr>
+      <hr className="hr"></hr>
       <p>
         La persona más importante en mi vida es mi madre, siendo una mujer
         luchadora la cual nos ha sacado adelante, siendo una madre soltera me ha
