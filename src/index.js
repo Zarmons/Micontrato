@@ -5,5 +5,6 @@ import './index.css'
 import './assets/layout/menu.css'
 import './assets/layout/users.css'
 import './assets/layout/home.css'
+import './assets/layout/questions.css'
 
 ReactDOM.render(<App />, document.getElementById('root'))

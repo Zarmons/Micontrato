@@ -1,0 +1,11 @@
+.container-questions {
+  margin: 0px 60px;
+}
+.verticalLine {
+  border-right: 2px solid #011053;
+}
+
+.container-ques {
+  width: 33.333%;
+  padding: 1%;
+}
