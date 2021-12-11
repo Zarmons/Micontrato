@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Micontrato/static/css/main.e5fab170.chunk.css",
-    "main.js": "/Micontrato/static/js/main.37475211.chunk.js",
-    "main.js.map": "/Micontrato/static/js/main.37475211.chunk.js.map",
+    "main.css": "/Micontrato/static/css/main.9655e5a3.chunk.css",
+    "main.js": "/Micontrato/static/js/main.50684209.chunk.js",
+    "main.js.map": "/Micontrato/static/js/main.50684209.chunk.js.map",
     "runtime-main.js": "/Micontrato/static/js/runtime-main.9f31cf2e.js",
     "runtime-main.js.map": "/Micontrato/static/js/runtime-main.9f31cf2e.js.map",
     "static/js/2.755cd8bc.chunk.js": "/Micontrato/static/js/2.755cd8bc.chunk.js",
     "static/js/2.755cd8bc.chunk.js.map": "/Micontrato/static/js/2.755cd8bc.chunk.js.map",
     "index.html": "/Micontrato/index.html",
-    "static/css/main.e5fab170.chunk.css.map": "/Micontrato/static/css/main.e5fab170.chunk.css.map",
+    "static/css/main.9655e5a3.chunk.css.map": "/Micontrato/static/css/main.9655e5a3.chunk.css.map",
     "static/js/2.755cd8bc.chunk.js.LICENSE.txt": "/Micontrato/static/js/2.755cd8bc.chunk.js.LICENSE.txt",
     "static/media/Foto.28846d37.jpg": "/Micontrato/static/media/Foto.28846d37.jpg",
     "static/media/api.7c727a2a.jpg": "/Micontrato/static/media/api.7c727a2a.jpg",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.9f31cf2e.js",
     "static/js/2.755cd8bc.chunk.js",
-    "static/css/main.e5fab170.chunk.css",
-    "static/js/main.37475211.chunk.js"
+    "static/css/main.9655e5a3.chunk.css",
+    "static/js/main.50684209.chunk.js"
   ]
 }
