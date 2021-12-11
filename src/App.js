@@ -10,9 +10,9 @@ export default function App() {
       <div className="App">
         <Menu></Menu>
         <Routes>
-          <Route exact path="/" element={<Home />}></Route>
-          <Route path="/usuarios" element={<Users />}></Route>
-          <Route path="/preguntas" element={<Questions />}></Route>
+          <Route exact path="Micontrato/" element={<Home />}></Route>
+          <Route path="Micontrato/usuarios" element={<Users />}></Route>
+          <Route path="Micontrato/preguntas" element={<Questions />}></Route>
         </Routes>
       </div>
     </Router>

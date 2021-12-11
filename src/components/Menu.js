@@ -8,13 +8,13 @@ const Menu = () => {
     <div  className="container-menu center">
       <ul className="App layout-menu center">
         <li>         
-          <Link to="/" ><FcHome></FcHome>Inicio</Link>
+          <Link to="Micontrato/" ><FcHome></FcHome>Inicio</Link>
         </li>
         <li>
-          <Link to="/usuarios"><FcBusinessman></FcBusinessman>Usuarios</Link>
+          <Link to="Micontrato/usuarios"><FcBusinessman></FcBusinessman>Usuarios</Link>
         </li>
         <li>
-          <Link to="/preguntas"><FcDecision></FcDecision>Preguntas</Link>
+          <Link to="Micontrato/preguntas"><FcDecision></FcDecision>Preguntas</Link>
         </li>
       </ul>
     </div>
