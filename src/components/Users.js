@@ -32,7 +32,7 @@ export default function Users() {
         <span>{numPage}</span>
         <button onClick={previous}><FaAngleRight></FaAngleRight></button>
       </div>
-      <div className="flex">
+      <div className="flex layout">
         {users.length &&
           users.map((user) => {
             return (

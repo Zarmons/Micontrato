@@ -2,7 +2,9 @@
   margin: 2rem 1rem 45px 1rem;
   text-align: center;
 }
-
+.layout {
+  height: 730px;
+}
 img {
   display: inline-block;
   max-width: 100%;
